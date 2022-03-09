@@ -4,8 +4,14 @@ Me chamo Renata, sou mineira de Formiga/MG,<br/>
 **desenvolvedora web Full Stack** e<br/>
 amo chocolate!
 <br/><br/>
-<a href="https://www.linkedin.com/in/renata-p-nunes/">
+<a href="https://www.linkedin.com/in/renata-p-nunes/" target="blank">
   <img align="center" alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://portfolio-eight-phi-63.vercel.app/" target="blank">
+  <img align="center" alt="Portfolio" width="100px" src="https://img.shields.io/badge/-Portfolio-5F5AA2?style=for-the-badge" />
+</a>
+<a href="https://github.com/renatapnunes/portfolio/blob/main/RenataNunes_curriculo.pdf" target="blank">
+  <img align="center" alt="Curriculo" width="100px" src="https://img.shields.io/badge/-Curriculo-BFCFF9?style=for-the-badge" />
 </a>
 <br/><br/>
 
