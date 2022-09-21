@@ -17,23 +17,18 @@ amo chocolate!
 
 ###### Principais
 
-![HTML5](https://img.shields.io/badge/-HTML_5-2B013F?style=for-the-badge&logo=html5)  ![JavaScript](https://img.shields.io/badge/-JavaScript-2B013F?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-2B013F?style=for-the-badge&logo=React&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/-React_Router-2B013F?style=for-the-badge&logo=ReactRouter&logoColor=C5021B) ![Redux](https://img.shields.io/badge/Redux-2B013F?style=for-the-badge&logo=redux&logoColor=64419E) ![ESLint](https://img.shields.io/badge/ESLINT-2B013F?style=for-the-badge&logo=eslint&logoColor=7979E5)
-![Jest](https://img.shields.io/badge/Jest-2B013F?style=for-the-badge&logo=jest&logoColor=BC3A12) ![RTL](https://img.shields.io/badge/RTL-2B013F?style=for-the-badge&logo=testinglibrary)
+![React](https://img.shields.io/badge/-React-37014B?style=for-the-badge&logo=React&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-37014B?style=for-the-badge&logo=typescript&logoColor=typescript) ![Next](https://img.shields.io/badge/next.js-37014B?style=for-the-badge&logo=nextdotjs&logoColor=nextdotjs) ![Redux](https://img.shields.io/badge/Redux-37014B?style=for-the-badge&logo=redux&logoColor=64419E) ![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-37014B?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=Apollo%20GraphQL) ![JavaScript](https://img.shields.io/badge/-JavaScript-37014B?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML_5-37014B?style=for-the-badge&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS_3-37014B?&style=for-the-badge&logo=css3&logoColor=38A0D4) ![Styled Component](https://img.shields.io/badge/styled--components-37014B?&style=for-the-badge&logo=styled-components) ![Bootstrap](https://img.shields.io/badge/Bootstrap-37014B?style=for-the-badge&logo=bootstrap)    
+![Jest](https://img.shields.io/badge/Jest-37014B?style=for-the-badge&logo=jest&logoColor=BC3A12) ![RTL](https://img.shields.io/badge/RTL-37014B?style=for-the-badge&logo=testinglibrary)
 
-![CSS3](https://img.shields.io/badge/CSS_3-2B013F?&style=for-the-badge&logo=css3&logoColor=38A0D4) ![Styled Component](https://img.shields.io/badge/styled--components-2B013F?&style=for-the-badge&logo=styled-components) ![Bootstrap](https://img.shields.io/badge/Bootstrap-2B013F?style=for-the-badge&logo=bootstrap) ![StyleLint](https://img.shields.io/badge/STYLELINT-2B013F?style=for-the-badge&logo=stylelint)      
-
-
-![Node.js](https://img.shields.io/badge/-Node.js-37014B?style=for-the-badge&logo=node.js&logoColor=339933) ![Express.js](https://img.shields.io/badge/Express.js-37014B?style=for-the-badge&logo=express) ![npm](https://img.shields.io/badge/npm-37014B?style=for-the-badge&logo=npm) ![Socket.io](https://img.shields.io/badge/Socket.io-37014B?style=for-the-badge&logo=socket.io) ![Sequelize](https://img.shields.io/badge/Sequelize-37014B?style=for-the-badge&logo=sequelize)  ![JWT](https://img.shields.io/badge/JWT-37014B?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=D63AFF)
- ![Mocha.js](https://img.shields.io/badge/Mocha-37014B?style=for-the-badge&logo=mocha) ![Chai.js](https://img.shields.io/badge/Chai-37014B?style=for-the-badge&logo=chai&logoColor=970000)
- ![MYSQL](https://img.shields.io/badge/MySQL-37014B?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-37014B?style=for-the-badge&logo=mongodb)
-
-![Python](https://img.shields.io/badge/-Python-430256?style=for-the-badge&logo=python) ![PyTest](https://img.shields.io/badge/-PYTEST-430256?style=for-the-badge&logo=pytest)
+![Node.js](https://img.shields.io/badge/-Node.js-430256?style=for-the-badge&logo=node.js&logoColor=339933) ![Express.js](https://img.shields.io/badge/Express.js-430256?style=for-the-badge&logo=express)  ![GraphQL](https://img.shields.io/badge/GraphQl-430256?style=for-the-badge&logo=graphql&logoColor=graphql) ![JWT](https://img.shields.io/badge/JWT-430256?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=D63AFF) ![Socket.io](https://img.shields.io/badge/Socket.io-430256?style=for-the-badge&logo=socket.io)  ![Prisma](https://img.shields.io/badge/Prisma-430256?style=for-the-badge&logo=Prisma&logoColor=Prisma) ![Sequelize](https://img.shields.io/badge/Sequelize-430256?style=for-the-badge&logo=sequelize)
+![MYSQL](https://img.shields.io/badge/MySQL-430256?style=for-the-badge&logo=mysql)  ![Postgresql](https://img.shields.io/badge/PostgreSQL-430256?style=for-the-badge&logo=postgresql&logoColor=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-430256?style=for-the-badge&logo=mongodb)  
+ ![Mocha.js](https://img.shields.io/badge/Mocha-430256?style=for-the-badge&logo=mocha) ![Chai.js](https://img.shields.io/badge/Chai-430256?style=for-the-badge&logo=chai&logoColor=970000)
 
 ![Docker](https://img.shields.io/badge/Docker-4E0261?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/-Git-4E0261?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-4E0261?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-4E0261?style=for-the-badge&logo=heroku&logoColor=400690)  
 
  ###### Outros
-
-![C](https://img.shields.io/badge/C-5A026D?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-5A026D?style=for-the-badge&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-5A026D?style=for-the-badge&logo=c-sharp) ![Lua](https://img.shields.io/badge/Lua-5A026D?style=for-the-badge&logo=lua) ![Arduino](https://img.shields.io/badge/Arduino-5A026D?style=for-the-badge&logo=arduino) 
+![Python](https://img.shields.io/badge/-Python-5A026D?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-5A026D?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-5A026D?style=for-the-badge&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-5A026D?style=for-the-badge&logo=c-sharp) ![Lua](https://img.shields.io/badge/Lua-5A026D?style=for-the-badge&logo=lua) ![Arduino](https://img.shields.io/badge/Arduino-5A026D?style=for-the-badge&logo=arduino) 
 <br/><br/>
 
 
