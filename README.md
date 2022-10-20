@@ -10,7 +10,7 @@ amo chocolate!
 <a href="https://portfolio-eight-phi-63.vercel.app/" target="blank">
   <img align="center" alt="Portfolio" width="100px" src="https://img.shields.io/badge/-Portfolio-5F5AA2?style=for-the-badge" />
 </a>
-<a href="https://github.com/renatapnunes/portfolio/blob/main/RenataNunes_curriculo.pdf" target="blank">
+<a href="https://github.com/renatapnunes/portfolio/blob/main/RenataPereiraNunes_curriculo.pdf" target="blank">
   <img align="center" alt="Curriculo" width="100px" src="https://img.shields.io/badge/-Curriculo-BFCFF9?style=for-the-badge" />
 </a>
 <br/><br/>
@@ -18,7 +18,7 @@ amo chocolate!
 ###### Principais
 
 ![React](https://img.shields.io/badge/-React-37014B?style=for-the-badge&logo=React&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-37014B?style=for-the-badge&logo=typescript&logoColor=typescript) ![Next](https://img.shields.io/badge/next.js-37014B?style=for-the-badge&logo=nextdotjs&logoColor=nextdotjs) ![Redux](https://img.shields.io/badge/Redux-37014B?style=for-the-badge&logo=redux&logoColor=64419E) ![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-37014B?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=Apollo%20GraphQL) ![JavaScript](https://img.shields.io/badge/-JavaScript-37014B?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML_5-37014B?style=for-the-badge&logo=html5)<br/>
-![CSS3](https://img.shields.io/badge/CSS_3-37014B?&style=for-the-badge&logo=css3&logoColor=38A0D4) ![Styled Component](https://img.shields.io/badge/styled--components-37014B?&style=for-the-badge&logo=styled-components) ![Bootstrap](https://img.shields.io/badge/Bootstrap-37014B?style=for-the-badge&logo=bootstrap)    
+![CSS3](https://img.shields.io/badge/CSS_3-37014B?&style=for-the-badge&logo=css3&logoColor=38A0D4) ![Styled Component](https://img.shields.io/badge/styled--components-37014B?&style=for-the-badge&logo=styled-components) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-37014B?style=for-the-badge&logo=tailwind-css&logoColor=tailwind)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-37014B?style=for-the-badge&logo=bootstrap) ![MaterialUi](https://img.shields.io/badge/Material--UI-37014B?style=for-the-badge&logo=material-ui&logoColor=material)    
 ![Jest](https://img.shields.io/badge/Jest-37014B?style=for-the-badge&logo=jest&logoColor=BC3A12) ![RTL](https://img.shields.io/badge/RTL-37014B?style=for-the-badge&logo=testinglibrary)
 
 
@@ -27,7 +27,7 @@ amo chocolate!
  ![Mocha.js](https://img.shields.io/badge/Mocha-430256?style=for-the-badge&logo=mocha) ![Chai.js](https://img.shields.io/badge/Chai-430256?style=for-the-badge&logo=chai&logoColor=970000)
 
 
-![Docker](https://img.shields.io/badge/Docker-4E0261?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/-Git-4E0261?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-4E0261?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-4E0261?style=for-the-badge&logo=heroku&logoColor=400690)  
+![Docker](https://img.shields.io/badge/Docker-4E0261?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/-Git-4E0261?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-4E0261?style=for-the-badge&logo=github&logoColor=white)  
 
 
  ###### Outros
