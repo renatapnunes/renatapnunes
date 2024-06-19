@@ -34,6 +34,3 @@ amo chocolate!
  ###### Outros
 ![C](https://img.shields.io/badge/C-5A026D?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-5A026D?style=for-the-badge&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-5A026D?style=for-the-badge&logo=c-sharp) ![Lua](https://img.shields.io/badge/Lua-5A026D?style=for-the-badge&logo=lua) ![Arduino](https://img.shields.io/badge/Arduino-5A026D?style=for-the-badge&logo=arduino) 
 <br/><br/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatapnunes&show_icons=true&theme=tokyonight)
